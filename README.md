@@ -6,7 +6,7 @@ My main field is game development. Right now i have my own projects going on, bu
 
 ### I have experience in these game engines 
 
-- GM:Studio (2015-2021 GML)
+- GM:Studio (2015-2021 / GML)
 
 - Godot Engine (2021-Ongoing / GDscript, C#)
 
