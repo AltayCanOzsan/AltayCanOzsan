@@ -12,12 +12,6 @@ My main field is game development. Right now i have my own projects going on, bu
 
 - Unity (2020-Ongoing / C#)
 
-### Reach me here:
-- edgyneer#5226 (Discord)
-- @altaycanozsan (Instagram)
-- Altay Can Özsan (Linkedin)
-#### Or, alternatively:
-- altaycanozsan@gmail.com
 
 ### I also have experience in 
 
