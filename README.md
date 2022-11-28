@@ -1,24 +1,31 @@
 ### Suh dudes 👋
 
 I'm Altay, 18 years old, and currently a student in Okan University, Turkey.
-I'm actively working on game development. Right now i have my own projects going on, but i'm willing to participate in any game-development releated events i can.
 
-### I have experience in these game engines:
+My main field is game development. Right now i have my own projects going on, but i'm absolutely willing to participate in any game-development releated events and projects i can.
 
-🖥 GM:Studio (2015-2021 GML)
+### I have experience in these game engines 
 
-🖥 Godot Engine (2021-Ongoing / GDscript, C#)
+- GM:Studio (2015-2021 GML)
 
-🖥 Unity (2020-Ongoing / C#)
+- Godot Engine (2021-Ongoing / GDscript, C#)
 
+- Unity (2020-Ongoing / C#)
 
-### I also have experience in:
+### Reach me here:
+- edgyneer#5226 (Discord)
+- @altaycanozsan (Instagram)
+- Altay Can Özsan (Linkedin)
+#### Or, alternatively:
+- altaycanozsan@gmail.com
 
-📑 Data Science (Python)
+### I also have experience in 
 
-📑 Artificial Intelligence (Python)
+- Data Science (Python)
 
-📑 Python
+- Artificial Intelligence (Python)
+
+- Python
 
 <!--
 **AltayCanOzsan/AltayCanOzsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
