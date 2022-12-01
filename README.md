@@ -15,6 +15,8 @@ My main field is game development. Right now i have my own projects going on, bu
 - Python
 - Web Design (HTML / CSS / JS)
 
+PS: Have you checked my [itch.io](https://edgyneer.itch.io/) yet?
+
 <!--
 **AltayCanOzsan/AltayCanOzsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
