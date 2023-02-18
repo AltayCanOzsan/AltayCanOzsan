@@ -1,6 +1,6 @@
 ### Suh dudes 👋
 
-I'm Altay, 18 years old, and currently a student in Istanbul Okan University, Turkey.
+I'm Altay, 19 years old, and currently a student in Istanbul Okan University, Turkey.
 
 My main field is game development, and I'm absolutely willing to participate in any game-development releated events and projects that I can.
 
