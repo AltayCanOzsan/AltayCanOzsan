@@ -2,7 +2,7 @@
 
 I'm Altay, 19 years old, and currently a student in Istanbul Okan University, Turkey.
 
-My main field is game development, and I'm absolutely willing to participate in any game-development releated events and projects that I can.
+My main field is game development, and I'll be participating in any game-development releated events and projects that I can.
 
 ### I have experience in these game engines 
 - GM:Studio (2015-2021 / GML)
