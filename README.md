@@ -6,8 +6,8 @@ My main field is game development, and I usually spend time participating in gam
 
 ### I have experience in these game engines 
 - GM:Studio (2015-2021 / GML)
-- Godot Engine (2021-Ongoing / GDscript, C#)
 - Unity (2020-Ongoing / C#)
+- Godot Engine (2021-Ongoing / GDscript, C#)
 
 ### I also have experience in 
 - Data Science (Python)
