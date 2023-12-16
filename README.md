@@ -4,7 +4,7 @@ I'm Altay. Currently 19 years old, and a student at Istanbul Okan University, Tu
 
 ### I have experience in these game engines 
 - GM:Studio (2015-2021 / GML)
-- Unity (2020-2023 / C#)
+- Unity (2020-Ongoing / C#)
 - Godot Engine (2021-Ongoing / GDscript, C#)
 
 
