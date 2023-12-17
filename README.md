@@ -1,6 +1,6 @@
 ### Suh dudes 👋
 
-I'm Altay. Currently 19 years old, and a student at Istanbul Okan University, Turkiye. I'm an intermediate-level game developer & jungle DNB artist.
+I'm Altay. Currently 20 years old, and a student at Istanbul Okan University, Turkiye. I'm an intermediate-level game developer & jungle DNB artist.
 
 ### I have experience in these game engines 
 - GM:Studio (2015-2021 / GML)
